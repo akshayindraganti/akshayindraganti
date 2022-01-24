@@ -1,8 +1,3 @@
-
-#  Login And SignUp Page
-
-
-
 ![Design and Development](https://github.com/AkshayIndraganti/AkshayIndraganti/blob/main/IndragantiAkshay.png)
  I'm Indraganti Akshay from India, Actively adapting to new tech. understanding how complex tech is becoming yet simple to use .focusing on how to implement a new way of productivity in the newest segment. And managing people in the nicest way possible by self-motivation. 
 
