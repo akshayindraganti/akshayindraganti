@@ -7,8 +7,7 @@
 
 Skills:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg'  alt='javascript' height='40'>](https://www.udemy.com/course/the-complete-javascript-course/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'>](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg'  alt='javascript' height='40'>](https://www.udemy.com/course/the-complete-javascript-course/)  
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with Nodejs 
