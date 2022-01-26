@@ -13,12 +13,19 @@
 
 - ⚡ Fun fact **I Am A Not Developer**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aksin03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksin03" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/indragantiakshay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indragantiakshay/" height="30" width="40" /></a>
+<a href="https://twitter.com/aksin03" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksin03" height="30" width="40" />
+ </a>
+<a href="https://www.linkedin.com/in/indragantiakshay/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/indragantiakshay/" height="30" width="40" />
+ </a>
 
-
+<br>
+<br>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
