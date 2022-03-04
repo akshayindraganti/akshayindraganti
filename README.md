@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akshayindraganti@gmail.com**
 
-- ⚡ Fun fact **I Am A Not Developer**
+- ⚡ Fun fact **I Am Not A Developer**
 
 <br>
 <h3 align="left">Connect with me:</h3>
