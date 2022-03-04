@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Indraganti Akshay</h1>
 <br>
-<h3 align="center">A passionate Web Development developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <p> Actively adapting to new tech. understanding how complex tech is becoming yet simple to use .focusing on how to implement a new way of productivity in the newest segment. And managing people in the nicest way possible by self-motivation. </p>
 <br>
  
