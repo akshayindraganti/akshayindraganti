@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/AkshayIndraganti/AkshayIndraganti/blob/main/IndragantiAkshay.png)
+![Design and Development](https://github.com/AkshayIndraganti/AkshayIndraganti/blob/main/logo.jpg)
 
 <h1 align="center">
     Hi 👋, I'm Indraganti Akshay
