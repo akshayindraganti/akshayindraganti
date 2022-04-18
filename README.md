@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **React,Redux,Nextjs**
 - 🤝 I’m looking for help with **MERN**
 - 💬 Ask me about **Fullstack Roadmap** - 📫 How to reach me **akshayindraganti@gmail.com**
-- ⚡Fun fact **I think learning javascript frameworks is more complitated than
+- ⚡Fun fact **I think learning javascript frameworks and libraries is more complitated than
   Aeronotics**
 
 <h3 align="left">Connect with me:</h3>
