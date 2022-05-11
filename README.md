@@ -6,7 +6,7 @@
 <h3 align="center">
   I am AkshayIndraganti a self-taught developer who learned Frontend and Backend
   technologies Such as MongoDB, Express, React, and Nodejs(MERN). And constantly
-  knowing new things in the software world and improving my skills with high
+  learning new things in the software world and improving my skills with high
   productivity and enthusiasm. Helping new developers to start their journey in
   the Fullstack development Roadmap.
 </h3>
