@@ -20,8 +20,7 @@
 - 🤝 I’m looking for help with **MERN**
 - 💬 Ask me about **Fullstack Roadmap**
 - 📫 How to reach me **akshayindraganti@gmail.com**
-- ⚡Fun fact **I think learning javascript frameworks and libraries is more complitated than
-  Aeronotics**
+- ⚡Fun fact **learning aeronautics is easier than learning js frameworks and library**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
