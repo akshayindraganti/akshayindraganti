@@ -4,11 +4,7 @@
     Hi 👋, I'm Indraganti Akshay
 </h1>
 <h3 align="center">
-  I am AkshayIndraganti a self-taught developer who learned Frontend and Backend
-  technologies Such as MongoDB, Express, React, and Nodejs(MERN). And constantly
-  learning new things in the software world and improving my skills with high
-  productivity and enthusiasm. Helping new developers to start their journey in
-  the Fullstack development Roadmap.
+  Hi, I am AkshayIndraganti, a self-taught full stack developer proficient in technologies like MongoDB, Express, React, and Nodejs (MERN). I am constantly learning and improving my skills in the software field. I also enjoy helping others start their journey in full stack development. I am enthusiastic and productive in my work.
 </h3>
 
 
