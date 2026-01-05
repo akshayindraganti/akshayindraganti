@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 - 🌍 I'm based in India
-- 🖥️ See my portfolio at [Indraganti Akshay](https://www.indragantiakshay.com/)
+- 🖥️ See my portfolio at [Indraganti Akshay](https://www.akshayindraganti.com/)
 - ✉️ You can contact me at akshayindraganti@gmail.com
 - 🚀 I'm currently working on [Tickets I WantTFC](https://tickets.iwanttfc.com/)
 - 🧠 I'm learning DSA , DevOps
