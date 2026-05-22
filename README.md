@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/AkshayIndraganti/AkshayIndraganti/blob/main/banner.png)
+![Design and Development](banner.png)
 
 # 💫 About Me:
 
