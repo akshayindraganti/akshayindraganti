@@ -16,7 +16,7 @@
 - [Facebook](https://facebook.com/akshayindraganti)
 - [Instagram](https://www.instagram.com/akshayindraganti/)
 - [LinkedIn](https://www.linkedin.com/in/akshayindraganti/)
-- [X (Twitter)](https://x.com/akshay__i)
+- [X (Twitter)](https://x.com/akshayindragant)
 
   <!-- - [Behance](./links.md#behance) -->
   <!-- - [Discord](./links.md#discord) -->
